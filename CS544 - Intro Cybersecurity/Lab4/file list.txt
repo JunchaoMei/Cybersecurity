@@ -1,0 +1,25 @@
+Encrypted:
+(1) bmp-6-0/*.bmp
+(2) doc-10-0/*.bmp
+(3) gif-2-0/*.gif
+(4) gif-3-0/00000018~00000027,00000032,00000034~00000040.gif
+(5) pdf-17-0/*.pdf
+(6) pdf-18-0/*.pdf
+(7) png-5-0/*.png
+(8) png-5-1/*.png
+(9) png-5-2/*.png
+(10) png-5-3/*.png
+(11) ra-22-0/*.ra
+(12) ra-23-0/*.ra
+(13) tif-7-0/*.tif
+(14) tif-8-0/*.tif
+
+Not encrypted:
+(1) gif-3-0/00000028~00000031,00000033.gif
+(2) htm-16-0/*.htm
+(3) jpg-4-0/*.jpg
+(4) wav-21-0/*.wav
+
+unknown:
+(1) ost-12-0/*.ost
+

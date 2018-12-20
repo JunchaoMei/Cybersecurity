@@ -1,0 +1,7 @@
+cd /media/junchao/f5634d73-b4ea-4245-85b8-4c269b08399b/lab4
+
+gunzip -c mmcblk0.img.gz | md5sum - 5a08e6e3ad0fc5006a8f134ebdbba246 -
+
+scalpel -c scalpel.conf -o mmcblk0.img.output mmcblk0.img
+
+identify -verbose fg-glp.png | grep "exif:"

@@ -1,0 +1,100 @@
+junchaomei@b146-13:/nfs/student/student/j/junchaomei$ ssh cs544@10.200.0.110
+cs544@10.200.0.110's password: 
+Welcome to Ubuntu 16.04.4 LTS (GNU/Linux 4.4.0-87-generic x86_64)
+
+ * Documentation:  https://help.ubuntu.com
+ * Management:     https://landscape.canonical.com
+ * Support:        https://ubuntu.com/advantage
+
+31 packages can be updated.
+0 updates are security updates.
+
+
+*** System restart required ***
+Last login: Fri Apr  6 13:59:07 2018 from 172.16.0.35
+cs544@CS544Server:~$ su - group2
+Password: 
+                                                                               
+Broadcast message from cs544@CS544Server (pts/5) (Fri Apr  6 14:05:04 2018):   
+                                                                               
+Game 12 starts in 60 seconds.                                                  
+                                                                               
+
+Hello, group2.  You are connected.  Please wait for the game to start.
+~~~~~ YOU ARE A wolf ~~~~~
+There are 2 wolves, and 5 townspeople.
+**************************************************
+*********************ROUND 1**********************
+***************7 players remain.******************
+**************************************************
+Night falls and the town sleeps.  Everyone close your eyes
+Werewolves, ['group5', 'group2'], you must choose a victim.  You have 60 seconds to discuss.  Possible victims are ['group1', 'group2', 'group3', 'group4', 'group5', 'group6', 'group7']
+group1
+Werewolves, you must vote on a victim to eat.  You have 60 seconds to vote.  Valid votes are ['group1', 'group2', 'group3', 'group4', 'group5', 'group6', 'group7'].
+group1
+group2 voted.
+group5 voted.
+Werewolves, you selected to eat group1
+Witch, open your eyes.
+The witch is now voting...
+Witch voted
+The witch used a health potion! 0 heal[s] remaining.
+It is day.  Everyone, ['group1', 'group2', 'group3', 'group4', 'group5', 'group6', 'group7'], open your eyes.  You will have 180 seconds to discuss who the werewolves are.
+group1-I think group3 is wolf
+I don't think so, I think group5 is witch
+group3-are you kidding me?
+group7-No its groupNo I think its me
+group5-lkljjgugfujgf
+group6-66666666666
+group4-omg
+Townspeople, you have 45 seconds to cast your votes on who to hang. Valid votes are ['group1', 'group2', 'group3', 'group4', 'group5', 'group6', 'group7']
+group5
+group2 voted.
+group1 voted.
+group3 voted.
+group4 voted.
+The town voted to hang group5!
+These are group5s last words.
+group5-group1
+**************************************************
+*********************ROUND 2**********************
+***************6 players remain.******************
+**************************************************
+Night falls and the town sleeps.  Everyone close your eyes
+Werewolves, ['group2'], you must choose a victim.  You have 0 seconds to discuss.  Possible victims are ['group1', 'group2', 'group3', 'group4', 'group6', 'group7']
+Werewolves, you must vote on a victim to eat.  You have 60 seconds to vote.  Valid votes are ['group1', 'group2', 'group3', 'group4', 'group6', 'group7'].
+group 1
+invalid vote
+group4
+group2 voted.
+Werewolves, you selected to eat group4
+Witch, open your eyes.
+The witch is now voting...
+Witch, close your eyes
+The werewolves ate group4!
+These are group4s last words.
+group4-fuck you
+It is day.  Everyone, ['group1', 'group2', 'group3', 'group6', 'group7'], open your eyes.  You will have 180 seconds to discuss who the werewolves are.
+fuck group2
+group1-fuck group2, too
+group3-fuck group2, +1
+group7-666
+group3-666666
+Townspeople, you have 45 seconds to cast your votes on who to hang. Valid votes are ['group1', 'group2', 'group3', 'group6', 'group7']
+group7 voted.
+group2
+group2 voted.
+group1 voted.
+group3 voted.
+The town voted to hang group2!
+These are group2s last words.
+fuck you ALLLLLLL!!!
+fuck you again
+againYOU ARE DEAD. You will continue getting game updates, Please *DO NOT* close this terminal
+                                                                               
+Broadcast message from cs544@CS544Server (pts/5) (Fri Apr  6 14:18:28 2018):   
+                                                                               
+Game 12 is over.  Townspeople win.  Please reconnect your client to play again.
+                                                                               
+
+
